@@ -15,7 +15,7 @@ de paiement sur son prêt immobilier.
 - F1-score classe 1 : 0.96
 
 ## Application
-🔗 [](URL_STREAMLIT_ICI)
+🔗 [LIEN]([URL_STREAMLIT_ICI](https://projet-loan-default-rania.streamlit.app/))
 
 ## Structure du projet
 - `app.py` : Application Streamlit
