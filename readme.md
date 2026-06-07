@@ -21,5 +21,5 @@ de paiement sur son prêt immobilier.
 - `app.py` : Application Streamlit
 - `model_rf.pkl` : Modèle sérialisé
 - `scaler.pkl` : Scaler sérialisé
-- `notebook.ipynb` : Notebook complet
+- `projet_ML_RaniaSOURI.ipynb` : Notebook complet
 - `rapport.pdf` : Rapport du projet
